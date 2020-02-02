@@ -95,3 +95,7 @@
   .out-of-stock{
     text-decoration: line-through
   }
+
+  .radio{
+    width: auto;
+  }
